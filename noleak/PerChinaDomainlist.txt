@@ -1,6 +1,6 @@
 # 直连列表
 
-# PerList（影视类）
+# PerList
 DOMAIN-SUFFIX,kekys.com
 DOMAIN-SUFFIX,keke1.com
 DOMAIN-SUFFIX,keke2.com
