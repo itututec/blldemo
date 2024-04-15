@@ -16,10 +16,3 @@ DOMAIN-SUFFIX,keke11.com
 DOMAIN-SUFFIX,keke12.com
 DOMAIN-SUFFIX,keke13.com
 DOMAIN-SUFFIX,keke14.com
-
-# CN域名直连(中国|公司|网络)
-#DOMAIN-SUFFIX,cn
-#DOMAIN-SUFFIX,xn--fiqs8s
-#DOMAIN-SUFFIX,xn--55qx5d
-#......
-
