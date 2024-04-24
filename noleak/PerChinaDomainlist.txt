@@ -1,18 +1,5 @@
 # 直连列表
 
 # PerList
-DOMAIN-SUFFIX,kekys.com
-DOMAIN-SUFFIX,keke1.com
-DOMAIN-SUFFIX,keke2.com
-DOMAIN-SUFFIX,keke3.com
-DOMAIN-SUFFIX,keke4.com
-DOMAIN-SUFFIX,keke5.com
-DOMAIN-SUFFIX,keke6.com
-DOMAIN-SUFFIX,keke7.com
-DOMAIN-SUFFIX,keke8.com
-DOMAIN-SUFFIX,keke9.com
-DOMAIN-SUFFIX,keke10.com
-DOMAIN-SUFFIX,keke11.com
-DOMAIN-SUFFIX,keke12.com
-DOMAIN-SUFFIX,keke13.com
-DOMAIN-SUFFIX,keke14.com
+DOMAIN-KEYWORD,keky
+
