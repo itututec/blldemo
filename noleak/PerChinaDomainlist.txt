@@ -1,5 +1,5 @@
 # 直连列表
 
 # PerList
-DOMAIN-KEYWORD,keky
+DOMAIN-KEYWORD,keke
 
