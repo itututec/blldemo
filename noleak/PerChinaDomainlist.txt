@@ -1,5 +1,15 @@
 # 直连列表
 
-# PerList
-DOMAIN-KEYWORD,keke
+# 域名后缀匹配 DOMAIN-SUFFIX
+#DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,keke3.app
+
+# 域名匹配 DOMAIN
+#DOMAIN,intel-cache.m.iqiyi.com
+DOMAIN,www.keke3.app
+
+# 域名关键字匹配 DOMAIN-KEYWORD
+#DOMAIN-KEYWORD,keke
+
+
 
